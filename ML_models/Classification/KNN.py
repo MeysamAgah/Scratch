@@ -1,6 +1,6 @@
 #requirements
 import numpy as np
-from Distance-metrics.distance-metrics import *
+from Distance_metrics.distance_metrics import *
 
 class KNN():
   def __init__(self, k=5, metric = 'euclidean'):
