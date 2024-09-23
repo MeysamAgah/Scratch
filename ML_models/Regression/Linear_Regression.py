@@ -1,3 +1,6 @@
+#Note
+## You need to scale data before fitting the model
+
 #requiremets
 import numpy as np
 
